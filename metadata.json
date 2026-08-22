@@ -1,0 +1,6 @@
+{
+  "name": "SMART-ABSENSI",
+  "description": "Aplikasi Sistematis, Akurat dan Realtime Presensi Siswa SMK Swasta Nusantara Lubuk Pakam berbasis GPS dan Token Dinamis/Statis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
